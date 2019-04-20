@@ -1,6 +1,15 @@
 # FP-PBKK-A-
 
-### Anggota Kelompok :
+## Daftar Isi
+1. [Nama Aplikasi](#1-Nama-aplikasi)
+2. [Anggota Kelompok](#2-anggota-kelompok)
+3. [Deskripsi Aplikasi](#3-deskripsi)
+4. [Use Case](#4-use-case)
+
+## Nama Aplikasi
+Sistem Informasi Manajemen Kesehatan Sekolah (SIMKes)
+
+## Anggota Kelompok :
 - Albertus Tommy Halim Putra 05111540000030
 - Benito Danneswara Widyatama 05111540000097
 
@@ -11,3 +20,5 @@ SIMkes merupakan sistem informasi yang berisi tentang riwayat kesehatan siswa di
 Untuk SIMKes sendiri berisi:
 1. Data pribadi siswa (Identitas)
 2. Data pemeriksaan fisik siswa (Berat badan, tinggi badan dan sebagainya)
+
+### Use Case
