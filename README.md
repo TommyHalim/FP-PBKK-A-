@@ -1,12 +1,12 @@
 # FP-PBKK-A-
 
 ## Daftar Isi
-1. [Nama Aplikasi](#1-Nama-aplikasi)
+1. [Nama Aplikasi](#1-nama-aplikasi)
 2. [Anggota Kelompok](#2-anggota-kelompok)
 3. [Deskripsi Aplikasi](#3-deskripsi)
 4. [Use Case](#4-use-case)
 
-## Nama Aplikasi
+## 1. Nama Aplikasi
 Sistem Informasi Manajemen Kesehatan Sekolah (SIMKes)
 
 ## Anggota Kelompok :
