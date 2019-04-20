@@ -28,6 +28,6 @@ Untuk Use Case diagram dapat dilihat pada gambar berikut ini:
 
 ## Site Map
 Site Map pembuatan aplikasi Sistem Informasi Manajemen Kesehatan Sekolah (SIMKes) adalah seperti pada gambar berikut:
-![site-map](/site map.jpg)
+![site-map](/site-map.jpg)
 
 ## Tampilan Web
